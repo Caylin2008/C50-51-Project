@@ -1,0 +1,13 @@
+.header{
+    background-color:#f1adff;
+    display: flex;
+    justify-content: space-between;
+}
+.sub-header{
+    background-color:#f1adff; 
+}
+.body{
+    background-color:#f1adff;
+}
+
+
